@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEditor;
 
-namespace FixedPoint
+namespace Deterministic.FixedPoint
 {
     [CustomPropertyDrawer(typeof(fp))]
     public class fpDrawer : PropertyDrawer
